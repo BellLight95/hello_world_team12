@@ -18,7 +18,7 @@
 
 ### 이의진 
 - **요즘하는 게임** __AFK새로운여정__
-![:TeamCount](https://ibb.co/7vnQrzC)
+![GAME](https://afkjourney-kr.farlightgames.com/style/img/public/feature01.png)
 
 hello_world_team12
 ===================
