@@ -26,7 +26,7 @@
     - siuuuuuu
         + siuuuuuuuuuuuu
 
-    ![RONALDO](![GAME](https://afkjourney-kr.farlightgames.com/style/img/public/feature01.png))
+    ![RONALDO](https://afkjourney-kr.farlightgames.com/style/img/public/feature01.png))
 -------------------------------------------
 
 hello_world_team12
