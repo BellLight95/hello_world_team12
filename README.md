@@ -3,6 +3,7 @@
 
 
 ### 윤진영 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Jinyeong%20Yun&animation=fadeIn&fontSize=70&)
 
 >public directory image load
 
