@@ -44,7 +44,7 @@ hello_world_team12
 
 ### 이찬형
 
-##### 좋아하는 게임
+#### 좋아하는 게임
 - 리그오브레전드
 <img src = "https://github.com/user-attachments/assets/421935e0-ba01-4638-b7d2-53b54af9a934" width="70%" height="70%">
 
