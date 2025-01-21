@@ -10,7 +10,7 @@
 
 > Node.js를 이용한 정적인 hit counter
 
-![:TeamCount](https://grape-plain-editorial.glitch.me/@:TeamCount?theme=3d-num&scale=1.5&align=center&padding=9&pixelated=0&darkmode=auto)
+![:TeamCount](https://grape-plain-editorial.glitch.me/@:TeamCount?theme=3d-num&scale=1.5&align=center&padding=5&pixelated=1&darkmode=auto)
 
 - [x] 아직 갈길이 먼 뉴비 개발자
 - 집에 있는데 집에 가고 싶어요...
@@ -19,6 +19,15 @@
 ### 이의진 
 - **요즘하는 게임** __AFK새로운여정__
 ![GAME](https://afkjourney-kr.farlightgames.com/style/img/public/feature01.png)
+-----------------------------------------
+###되돌리기 테스트 
+
+* siu
+    - siuuuuuu
+        + siuuuuuuuuuuuu
+
+    ![RONALDO](https://afkjourney-kr.farlightgames.com/style/img/public/feature01.png))
+-------------------------------------------
 
 hello_world_team12
 ===================
