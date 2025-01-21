@@ -20,14 +20,7 @@
 - **요즘하는 게임** __AFK새로운여정__
 ![GAME](https://afkjourney-kr.farlightgames.com/style/img/public/feature01.png)
 -----------------------------------------
-###되돌리기 테스트 
 
-* siu
-    - siuuuuuu
-        + siuuuuuuuuuuuu
-
-    ![RONALDO](https://afkjourney-kr.farlightgames.com/style/img/public/feature01.png))
--------------------------------------------
 
 hello_world_team12
 ===================
