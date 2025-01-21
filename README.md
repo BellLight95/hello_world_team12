@@ -10,7 +10,7 @@
 
 > Node.js를 이용한 정적인 hit counter
 
-![:TeamCount](https://grape-plain-editorial.glitch.me/@:TeamCount?theme=3d-num&scale=1.5&align=center&padding=5&pixelated=1&darkmode=auto)
+![:TeamCount](https://grape-plain-editorial.glitch.me/@:TeamCount?theme=minecraft&scale=1.5&align=center&padding=7&pixelated=1&darkmode=auto)
 
 - [x] 아직 갈길이 먼 뉴비 개발자
 - 집에 있는데 집에 가고 싶어요...
